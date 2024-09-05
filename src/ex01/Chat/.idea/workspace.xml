@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="84e9a307-8e3b-4236-9b95-15c0f1996a10" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/school21/chat/models/Chat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/school21/chat/models/Chat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/school21/chat/models/Message.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/school21/chat/models/Message.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/school21/chat/models/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/school21/chat/models/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/school21/chat/models/app/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/school21/chat/models/app/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/school21/chat/models/repositories/MessagesRepositoryJdbcImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/school21/chat/models/repositories/MessagesRepositoryJdbcImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/school21/chat/models/Message.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/school21/chat/models/Message.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/school21/chat/models/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/school21/chat/models/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/school21/chat/models/app/Program.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/school21/chat/models/app/Program.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/edu/school21/chat/models/repositories/MessagesRepositoryJdbcImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/edu/school21/chat/models/repositories/MessagesRepositoryJdbcImpl.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2jMU09OTNE2bDd3MYfVQi4UeVkG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;develop&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/opt/goinfre/wilmerbl/proj/JavaBootcamp/Java_Bootcamp.Day05-1/src/ex01/Chat&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="84e9a307-8e3b-4236-9b95-15c0f1996a10" name="Changes" comment="" />
+      <created>1721196214318</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1721196214318</updated>
+    </task>
+    <servers />
+  </component>
+</project>
